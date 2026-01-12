@@ -1,0 +1,9 @@
+{
+  "name": "icp-dev",
+  "description": "A Claude Code plugin that makes Internet Computer (ICP) development feel native and seamless. The plugin provides slash commands for common workflows (local dev, deployment, cycles management) with safety guardrails for risky operations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "perlandre"
+  },
+  "keywords": ["development", "web3", "icp", "internet computer", "deploy", "mainnet"]
+}
